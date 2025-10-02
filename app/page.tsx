@@ -5,6 +5,8 @@ export default function Home() {
         <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight">BYTE Campus Caravan - Legazpi</h1>
 
         <button className="border border-blue-600 text-white p-2 rounded-md hover:bg-blue-600 m-2">Test Button</button>
+        <button className="border border-blue-600 text-white p-2 rounded-md hover:bg-blue-600 m-2">Test Button</button>
+        <button className="border border-blue-600 text-white p-2 rounded-md hover:bg-blue-600 m-2">Test Button</button>
       </div>
     </main>
   );
